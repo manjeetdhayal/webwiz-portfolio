@@ -89,6 +89,14 @@ const teamData = [
     linkedin: "https://www.linkedin.com/in/debasish-mishra-86135b129/",
     instagram: "https://www.instagram.com/debasishmishra31/",
   },
+  {
+    name: "Priti Kumari",
+    image: require("../assets/data/priti.jpg").default,
+    tagline: "Web Developer",
+    github: "https://github.com/amyra98",
+    linkedin: "https://www.linkedin.com/in/priti-kumari-1b47a1203",
+    instagram: "https://www.instagram.com/_priti_k/",
+  },
   
 ];
 
